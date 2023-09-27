@@ -1,7 +1,7 @@
 # Project Name: [Student dropout analysis for school education]
 # PS Code : [1368] 
 ## Team Name:The Odd Squad
-- Team Members:Jwalant CHaudhari
+- Team Members:Jwalant Chaudhari
 Meet vaghasiya
 Kuldeep Panchal
 Kax soni
@@ -103,8 +103,10 @@ In the future, we'll use really smart computer programs to figure out which stud
 
 ## Screenshots and Demos 📸
 
-![Alt text](<WhatsApp Image 2023-09-27 at 11.36.32-1.jpg>)
-![Alt text](<WhatsApp Image 2023-09-27 at 11.36.32-2.jpg>)
+https://github.com/jwalantchaudhari/jwalantchaudhari/blob/main/Distict%20And%20Year%20Wise%20Dropout%20Visualization.PNG
+https://github.com/jwalantchaudhari/jwalantchaudhari/blob/main/Highest%20Dropout%20State%20Bubble%20Map.PNG
+https://github.com/jwalantchaudhari/jwalantchaudhari/blob/main/State%20Wise%20Dropout%20And%20Top%20Medium%20Dropout.PNG
+https://github.com/jwalantchaudhari/jwalantchaudhari/blob/main/Student%20Dropout%20Analysis%20For%20School%20Education%20Model.py
 
 
 ## Acknowledgments 🙌
